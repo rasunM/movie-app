@@ -1,0 +1,12 @@
+.tableDiv{
+    color: white;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.863);
+}
+
+.heading{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    padding: 50px;
+}

@@ -1,0 +1,50 @@
+.body{
+  background-image: url(https://3.bp.blogspot.com/-hguqMhBT2jI/WtZ12PAKwtI/AAAAAAAAGlc/ALpLBCw1lQ4UPWYoYkAmsvjUDWQlv3UGwCLcBGAs/w1200-h630-p-k-no-nu/MCU.jpg);
+  background-size: cover;
+  height: 100vh;
+  background-color: #0b0d10d7;
+  background-size: contain;
+  background-position: center;
+  background-blend-mode: overlay;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  padding-top: 20px;
+}
+
+.textArea{
+  margin: auto 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10%;
+}
+
+.header{
+  font-size: 30px;
+}
+
+.subHeader{
+  font-size: 20px;
+  margin-top: 12px;
+}
+
+.exploreButton{
+  background-color: #e50914;
+  border: none;
+  padding: 20px;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 25px;
+  border-radius: 10px;
+  margin-top: 22px;
+}
+
+.exploreButton:hover{
+  cursor: pointer;
+  background-color: #c55c1f;
+  transform: scale(1.05);
+  transition: background-color 0.2s ease; 
+}
